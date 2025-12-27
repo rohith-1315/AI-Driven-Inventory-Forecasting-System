@@ -1,0 +1,9 @@
+ProductID,ProductName,Date,Quantity,Region,Revenue
+P001,Wireless Mouse,2023-01-15,50,North,1250
+P001,Wireless Mouse,2023-02-14,55,North,1375
+P001,Wireless Mouse,2023-03-20,45,North,1125
+P001,Wireless Mouse,2023-04-10,60,North,1500
+P001,Wireless Mouse,2023-05-05,65,North,1625
+P002,Mechanical Keyboard,2023-01-20,20,East,2000
+P002,Mechanical Keyboard,2023-02-18,25,East,2500
+P002,Mechanical Keyboard,2023-03-15,22,East,2200
